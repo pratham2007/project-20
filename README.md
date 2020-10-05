@@ -1,2 +1,2 @@
-# project-20
-its a project assigned to me by whitehatJr.
+# p5.play-boilerplate
+Boiler plate for p5.play
